@@ -1,0 +1,49 @@
+.d-block {
+    height: 500px;
+    width: 200px;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+}
+
+.card-img-top {
+    bottom: 10px;
+}
+
+img.zoom {
+    width: 350px;
+    height: 200px;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+}
+
+.transition {
+    -webkit-transform: scale(1.8);
+    -moz-transform: scale(1.8);
+    -o-transform: scale(1.8);
+    transform: scale(1.8);
+}
+
+.bi-whatsapp {
+    color: green;
+}
+
+.bi-twitter {
+    color: #00acee;
+}
+
+.bi-instagram {
+    color: #FF00FF;
+}
+
+.bi-facebook {
+    color: #3b5998;
+}
+
+.bi-envelope-fill {
+    color: #FF0000;
+}
